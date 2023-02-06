@@ -56,7 +56,7 @@ public String toString(){
 
     /**
      *
-     * @return autor de la entrada
+     * @return autor de la entrada.
      */
     public String getAutor(){
         return this.autor.toUpperCase();
